@@ -3,7 +3,7 @@ entries:
   thunes-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-16T16:02:33.578481+08:00"
+    created: "2020-09-16T16:04:13.66617+08:00"
     description: A Helm chart for Kubernetes
     digest: 4cc18cfcc6d6872923fe68f554333e8b9abdb6c46719fe8caa66abc38a9edc56
     name: thunes-app
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://gitlab.thunes.com/chenglim.teo/thunes-app-v1/thunes-app/thunes-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-16T16:02:33.576836+08:00"
+generated: "2020-09-16T16:04:13.664896+08:00"
